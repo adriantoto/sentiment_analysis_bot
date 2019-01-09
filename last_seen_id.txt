@@ -1,0 +1,1 @@
+# This file is used to store your last ID that detected by the bot. Delete this text after you read it, so the function to store the ID can work smoothly without the disturbance of this text.
